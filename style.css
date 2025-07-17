@@ -1,0 +1,74 @@
+header{
+    background-image: url(images/Circle\ design.svg);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    margin: 20px 55px;
+    background-size: 35%;
+}
+header h4 {
+    color: #050505;
+    font-size: .85em;
+    line-height: 1.5;
+    font-weight: 550;
+}
+.Influencer{
+    color: #E02C6D;
+}
+header nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header nav ul{
+    display: flex;
+    list-style: none;
+    gap: 18px;
+
+}
+header nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 0.75em;
+    font-weight: medium;
+}
+.main-camera{
+    width: 60%;
+    height: auto;
+}
+.header-content{
+    display: flex;
+    
+    padding-top: 45px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+}
+.header-text{
+    width: 50%;
+}
+.header-image{
+    display: flex;
+    justify-content: right;
+    align-items: right;
+}
+.header-text h1{
+    font-size: 2.0em;
+    font-weight: 800;
+    color: #050505;
+}
+.header-text p{
+    font-size: 0.85em;
+    font-weight: 540;
+    color: #050505;
+}
+.primary-btn{
+    background-color: #E02C6D;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 0.55em;
+    margin-top: 8px;
+}
+
+

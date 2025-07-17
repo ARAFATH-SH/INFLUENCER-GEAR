@@ -65,5 +65,19 @@ header nav ul li a{
     font-size: 1em;
     margin-top: 8px;
 } 
+.logos-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+.logos{
+    display: flex;
+    background-color: white;
+    gap: 65px;
+    padding: 15px 30px;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.1);
+}
 
 
